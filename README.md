@@ -1,4 +1,4 @@
-# Store Rating Platform
+# Store Rating Platform.
 Stack: **Express.js + PostgreSQL** (backend) · **React + Vite** (frontend)
 
 ## Run it
